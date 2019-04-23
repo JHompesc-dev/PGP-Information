@@ -1,2 +1,3 @@
-# PGP-Information
-PGP keys and sigs
+# PGP-Public Key
+
+For communications et al.
