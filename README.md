@@ -1,3 +1,3 @@
 # PGP-Public Key
 
-Please use PGP encryption when contacting me on my email. 
+You can use PGP encryption when contacting me via email. 
